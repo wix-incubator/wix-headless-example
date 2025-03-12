@@ -15,7 +15,7 @@ export default function Home() {
             works.
           </span>
                     <span>
-            <a href="https://dev.wix.com/api/sdk/about-wix-headless/overview">
+            <a href="https://dev.wix.com/docs/go-headless/getting-started/about-headless/about-wix-headless">
               Documentation
             </a>{" "}
                         &nbsp;|&nbsp;
