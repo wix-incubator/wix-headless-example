@@ -3,7 +3,7 @@
 <blockquote class="important">
 
 __Important:__
-This code is outdated. You can find the [up-to-date code in the headless-templates](https://github.com/wix/headless-templates/tree/main/react-native/mobile-ecommerce) repository.
+This code is no longer being maintained. You can find the [up-to-date code](https://github.com/wix/headless-templates/tree/main/react-native/mobile-ecommerce)  in the **headless-templates** repository.
 
 </blockquote>
 
