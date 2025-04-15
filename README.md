@@ -83,7 +83,7 @@ the [Wix eCommerce API](https://dev.wix.com/docs/sdk/backend-modules/ecom/introd
 > It allows you to manage a site visitor's cart, handle checkout and payment flow, create and manage discount rules,
 > promote items, and manage orders.
 
-### Headless Tickets
+### Headless Tickets 
 
 The [`pages/tickets.js`](./pages/tickets.js) file demonstrates how to use
 the [Wix Events API](https://dev.wix.com/docs/sdk/backend-modules/events/introduction) to fetch a list of events and
