@@ -1,5 +1,12 @@
 # Wix Headless Examples
 
+<blockquote class="important">
+
+__Important:__
+This code is no longer being maintained. You can find the [up-to-date code](https://github.com/wix/headless-templates/tree/main/react-native/mobile-ecommerce) in the **headless-templates** repository.
+
+</blockquote>
+
 This [Next.js](https://nextjs.org/) project provides a minimal example site to demonstrate basic usage of various Wix
 Headless APIs. The implementation focuses on simplicity and readability, rather than feature richness, performance, or
 completeness. This repository can be used as a quick reference for bootstrapping a Wix Headless application.
